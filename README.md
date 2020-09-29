@@ -1,3 +1,3 @@
-# BasicNavigationViewDemo - Material Design Support Library
+# BasicNavigationViewDemo
 
 Basic setup of Navigation View without Fragments.
